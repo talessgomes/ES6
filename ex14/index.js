@@ -12,5 +12,3 @@ const half = ({max, min}) => (max + min) / 2.0;
 
 console.log(half(stats)); //28.015
 
-//desestruturando a função, eu consigo chamar max e min
-//sem precisar usar stats.min ou stats.max
